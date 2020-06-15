@@ -1,0 +1,87 @@
+ 
+/* .title {
+    padding: 50px 50px 50px 50px;
+}
+
+button {
+    padding: 0.75rem 1.5rem;
+    border-radius: 2px;
+  }
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td{ 
+	padding:7px; border:#4e95f4 1px solid;
+}
+.hoverTable tr{
+	background: #b8d1f3;
+}
+.hoverTable tr:hover {
+    background-color: #ffff99;
+}
+
+.profile-picture {
+    width: 250px;
+    position:absolute; 
+    right:0;
+}
+
+/* navbar */
+/* vbar {
+    position : fixed;
+    height: 55px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    text-align: right;
+    line-height: 40px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar a {
+    background-color: #ffffff;
+    font-weight: bold;
+    color: #000000;
+    border: none;
+    padding: 2px 5px 2px 5px;
+    text-decoration: none;
+}
+.logo { 
+    position : fixed; 
+    left : 10px; 
+    width: 130px; 
+}
+.butt {
+.na
+    /* display: block; */
+    /* color: #f2f2f2;
+    text-align: center;
+
+    /* text-decoration: none; */
+/* 
+}
+
+.container {
+top : 50px;
+padding-top: 100px;
+
+}  */
+/* searchbar */
+/* 
+.heading {
+  
+    font-size: 30px;
+    padding: 16px 0;
+    color: #444;
+    text-align: center;
+  }
+  .search {
+    top: 50px;
+    padding-top: 100px;
+  } */
+
+

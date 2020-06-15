@@ -1,0 +1,39 @@
+{
+    "password": "admin",
+    "phone": "+33 Bob",
+    "email": "admin@admin.admin",
+    "role": "admin"
+}
+
+{
+    "lastname": "Bob",
+    "firstname": "Bob",
+    "password": "passbob",
+    "address": "505 avenue Bob, Bobville",
+    "photo": "Bob64",
+    "phone": "+33 Bob",
+    "email": "bob@bob.bob",
+    "__v": 0
+}
+
+{
+    "lastname": "Bab",
+    "firstname": "Bab",
+    "password": "passbab",
+    "address": "505 avenue Bab, Babville",
+    "photo": "Bab64",
+    "phone": "+33 Bab",
+    "email": "bab@bab.bab",
+    "__v": 0
+}
+
+{
+    "lastname": "Beb",
+    "firstname": "Beb",
+    "password": "passbeb",
+    "address": "505 avenue Beb, Bebville",
+    "photo": "Beb64",
+    "phone": "+33 Beb",
+    "email": "beb@beb.beb",
+    "__v": 0
+}

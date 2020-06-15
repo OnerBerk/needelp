@@ -1,0 +1,27 @@
+{
+  "name": "pffroot",
+  "version": "1.0.0",
+  "description": "Jean Simon guillaume sonia Oner",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "back": "npm start --prefix ./back &",
+    "testUser": "node ./front/automaticTesting/testUser.js",
+    "testSupplier": "node ./front/automaticTesting/testSupplier.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faten94/PFF.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faten94/PFF/issues"
+  },
+  "homepage": "https://github.com/faten94/PFF#readme"
+}
